@@ -1,0 +1,8 @@
+[mod]
+title: Piano v1
+description:"""
+Demo release of my Piano mod\n
+by stevePH
+"""
+
+minVersion: 1.15p11b
