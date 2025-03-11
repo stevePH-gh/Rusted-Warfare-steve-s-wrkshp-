@@ -1,2 +1,3 @@
 # Rusted-Warfare-steve-s-wrkshp-
-For my codes
+# Category: Piano Mod (v1)
+# This is the codes from my piano (v1) mod
